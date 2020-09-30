@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263984093070",
+    "firebase_url": "https://photobi-47bdd.firebaseio.com",
+    "project_id": "photobi-47bdd",
+    "storage_bucket": "photobi-47bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263984093070:android:b849702cd2a82e9e57f6df",
+        "android_client_info": {
+          "package_name": "com.photobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263984093070-t9giro17b49hvup2hinig351d1q805mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwN5JNMXtAoMv7Rh2p556_Nj_TgBHHAv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263984093070-t9giro17b49hvup2hinig351d1q805mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+module Pods_photobi_photobiTests {
+  umbrella header "Pods-photobi-photobiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
